@@ -2,7 +2,7 @@
 <tr>
   <td valign="top" width="100%">
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Infarh&background=DD272700&sideNums=DD2727&currStreakNum=8C59CF8A&border=DD272700&ring=57C79B&sideLabels=98C751&dates=168CC7)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Infarh&background=DD272700&sideNums=DD2727&currStreakNum=8C59CF8A&border=DD272700&ring=57C79B&sideLabels=98C751&dates=168CC7&locale=ru-ru)
 
   </td>
   <!--
