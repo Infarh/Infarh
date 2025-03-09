@@ -17,6 +17,7 @@
 
 - [aes v0.0.2](https://github.com/Infarh/aes/releases/tag/v0.0.2) ([скачать](https://github.com/Infarh/aes/releases/download/v0.0.2/aes.exe))
 - [md5 v1.0.0](https://github.com/Infarh/md5/releases/tag/v1.0.0) ([скачать](https://github.com/Infarh/md5/releases/download/v1.0.0/md5.exe))
+- [pinger v1.25.309.1409](https://github.com/Infarh/Pinger/releases) ([скачать](https://github.com/Infarh/Pinger/releases/download/1.25.309.1409/Pinger.exe))
  
  ### [Заметки](https://gist.github.com/Infarh)  
  
