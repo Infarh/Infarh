@@ -15,10 +15,10 @@
 
 ### Инструменты
 
-- [aes](https://github.com/Infarh/aes/releases) ([скачать](https://github.com/Infarh/aes/releases/download/v0.0.2/aes.exe))
-- [md5](https://github.com/Infarh/md5/releases) ([скачать](https://github.com/Infarh/md5/releases/download/v1.0.0/md5.exe))
-- [pinger](https://github.com/Infarh/Pinger/releases) ([скачать](https://github.com/Infarh/Pinger/releases/download/1.25.309.1409/Pinger.exe))
-- [tracer](https://github.com/Infarh/Tracer/releases) ([скачать](https://github.com/Infarh/Tracer/releases/download/1.25.502.1858/tracer.exe))
+- [aes](https://github.com/Infarh/aes/releases) ([скачать v0.0.2](https://github.com/Infarh/aes/releases/download/v0.0.2/aes.exe))
+- [md5](https://github.com/Infarh/md5/releases) ([скачать v1.0.0](https://github.com/Infarh/md5/releases/download/v1.0.0/md5.exe))
+- [pinger](https://github.com/Infarh/Pinger/releases) ([скачать v1.25.309](https://github.com/Infarh/Pinger/releases/download/1.25.309.1409/Pinger.exe))
+- [tracer](https://github.com/Infarh/Tracer/releases) ([скачать v1.25.502](https://github.com/Infarh/Tracer/releases/download/1.25.502.1858/tracer.exe))
  
  ### [Заметки](https://gist.github.com/Infarh)  
  
